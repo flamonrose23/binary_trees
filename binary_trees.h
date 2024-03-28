@@ -35,8 +35,6 @@ size_t binary_tree_depth(const binary_tree_t *tree);
 size_t binary_tree_height(const binary_tree_t *tree);
 <<<<<<< HEAD
 size_t binary_tree_depth(const binary_tree_t *tree);
-=======
->>>>>>> 95f96e26fb8b700152ac582ee0ad14ac90b59e75
->>>>>>> 431394735dfeed22ef04698ae0bb65b034035d1f
+binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 #endif /* _BINARY_TREES_H_ */
